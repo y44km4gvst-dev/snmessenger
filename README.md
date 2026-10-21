@@ -22,4 +22,3 @@ Supports iOS 12.4+, works on latest Messenger version down to v458.0.0
 git clone https://github.com/NguyenASang/SNMessenger.git
 ```
 - Compile using iOS 16+ SDK with latest THEOS.
-https://github.com/NguyenASang/SNMessenger.git
